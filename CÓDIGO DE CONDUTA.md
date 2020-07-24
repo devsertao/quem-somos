@@ -21,4 +21,5 @@ A organização estará disposta a auxiliar participantes a entrar em contato co
 Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
 
 Crédito e fonte original
-(FrontInSampa)[https://www.frontinsampa.com.br/code-of-conduct]
+
+[FrontInSampa](https://www.frontinsampa.com.br/code-of-conduct)
