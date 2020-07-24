@@ -14,7 +14,7 @@ As políticas antiassédio também se aplicam a representantes de empresas patro
 
 Se alguém se envolver em comportamento de assédio, a equipe organizadora poderá tomar todas as medidas que considerar adequadas, incluindo avisar a pessoa ofensora ou expulsá-la da conferência sem nenhum reembolso.
 
-Caso sofra assédio, perceba que alguém esteja sofrendo assédio ou tenha alguma dúvida, entre em contato com alguém da organização imediatamente. As pessoas da equipe da conferência podem ser identificadas, pois estarão vestindo camisetas marcadas.
+Caso sofra assédio, perceba que alguém esteja sofrendo assédio ou tenha alguma dúvida, entre em contato com alguém da organização imediatamente. As pessoas da equipe da conferência podem ser identificadas, pois estarão vestindo camisetas marcadas, ou estarão como moderadores nas salas de chat.
 
 A organização estará disposta a auxiliar participantes a entrar em contato com a segurança do hotel ou local, bem como aplicar a legislação pertinente, fornecer escoltas ou ajudar pessoas que sofrerem assédio para que se sintam seguras durante a conferência. Valorizamos sua participação.
 
