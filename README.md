@@ -1,4 +1,4 @@
-<img align="center" width="200" src="https://github.com/devsertao/quem-somos/blob/main/dev-sertao.png?raw=true">
+<img align="center" width="200" src="https://github.com/devsertao/quem-somos/blob/main/img/dev-sertao.png?raw=true">
 
 # DevSertão
 
@@ -11,6 +11,9 @@
 #### Conecte-se conosco! :smile:
 
 <a href="https://twitter.com/dev_sertao">
-  <img align="left" alt="Twitter DevSertão" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
+  <img align="left" alt="Twitter DevSertão" width="21px" src="https://github.com/devsertao/quem-somos/blob/main/img/twitter.png?raw=true" />
+</a>
+<a href="https://instagram.com/dev.sertao">
+  <img align="left" alt="Instagram DevSertão" width="21px" src="https://github.com/devsertao/quem-somos/blob/main/img/instagram.png?raw=true" />
 </a>
  
