@@ -8,7 +8,7 @@
 Fomentar e potencializar a comunidade de desenvolvimento de software do Vale do São Francisco.
 
 #### Visão
-Ser a maior comunidade pessoas desenvolvedoras de software do Vale do São Francisco até o final de 2021.
+Ser a maior comunidade de pessoas desenvolvedoras de software do Vale do São Francisco até o final de 2021.
 
 #### Valores
 O DevSertão tem como pilares a inclusão e o respeito a todas as pessoas independentemente de gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião e escolhas de tecnologias.
