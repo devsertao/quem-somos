@@ -23,7 +23,7 @@ O DevSertão utiliza de meios como live streams, meetups, mentorias, artigos, vi
 <a href="https://twitter.com/dev_sertao">
   <img align="left" alt="Twitter DevSertão" width="21px" src="https://github.com/devsertao/quem-somos/blob/main/img/twitter.png?raw=true" />
 </a>
-<a href="https://instagram.com/dev.sertao">
+<a href="https://instagram.com/dev_sertao">
   <img align="left" alt="Instagram DevSertão" width="21px" src="https://github.com/devsertao/quem-somos/blob/main/img/instagram.png?raw=true" />
 </a>
  
