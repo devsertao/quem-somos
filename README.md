@@ -37,8 +37,9 @@ O DevSertão utiliza de meios como live streams, meetups, mentorias, artigos, vi
 
 <br>
 
-#### Pesquisa
-#### Dados
+#### [Dados](https://github.com/devsertao/dados-guilda)
+#### [Pesquisa](https://github.com/devsertao/pesquisa-guilda)
+#### [Open Source](https://github.com/devsertao/open-source-guilda)
 
 <br>
 
