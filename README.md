@@ -23,16 +23,16 @@ O DevSertão utiliza de meios como live streams, meetups, mentorias, artigos, vi
 #### Core
 
 <a href="https://github.com/Gabrielr2508">
-  <img align="left" width="50" src="https://avatars1.githubusercontent.com/u/12296173?s=400&v=4">
+  <img align="center" width="50" src="https://avatars1.githubusercontent.com/u/12296173?s=400&v=4">
 </a>
 <a href="https://github.com/RafaelGondi">
-  <img align="left" width="50" src="https://avatars3.githubusercontent.com/u/20057968?s=460&u=d56e9b3288dab716913e9f90b2fcd408b86a097c&v=4">
+  <img align="center" width="50" src="https://avatars3.githubusercontent.com/u/20057968?s=460&u=d56e9b3288dab716913e9f90b2fcd408b86a097c&v=4">
 </a>
 <a href="https://github.com/Talita1996">
-  <img align="left" width="50" src="https://avatars2.githubusercontent.com/u/32337270?s=460&u=04e1b73ce04db6d2185c2ecb9e450c6379c27a2b&v=4">
+  <img align="center" width="50" src="https://avatars2.githubusercontent.com/u/32337270?s=460&u=04e1b73ce04db6d2185c2ecb9e450c6379c27a2b&v=4">
 </a>
 <a href="https://github.com/JohnathanALves">
-  <img align="left" width="50" src="https://avatars0.githubusercontent.com/u/11681745?s=460&u=9e05d0463a64cdee760ca2f5cc08533cc53f3ee0&v=4">
+  <img align="center" width="50" src="https://avatars0.githubusercontent.com/u/11681745?s=460&u=9e05d0463a64cdee760ca2f5cc08533cc53f3ee0&v=4">
 </a>
 
 <br>
