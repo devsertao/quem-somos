@@ -62,6 +62,7 @@ A comunicação entre todos do DevSertão deve ser aberta independentemente do p
 #### [Dados](https://github.com/devsertao/dados-guilda)
 #### [Pesquisa](https://github.com/devsertao/pesquisa-guilda)
 #### [Open Source](https://github.com/devsertao/open-source-guilda)
+#### [Mulheres](https://github.com/devsertao/mulheres-guilda)
 
 <br>
 
