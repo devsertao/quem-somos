@@ -18,6 +18,30 @@ O DevSertão possui um [Código de Conduta](https://github.com/devsertao/quem-so
 ### Recursos
 O DevSertão utiliza de meios como live streams, meetups, mentorias, artigos, videos, dentre outras mídias, para divulgar informação, conhecimento e promover a troca de experiência entre as pessoas.
 
+### [Organograma](https://www.figma.com/file/VNggGpXp5Ys3Xr8zr8ieCM/Organiza%C3%A7%C3%A3o?node-id=1%3A2)
+* Core Guild - Responsável pelo posicionamento geral do coletivo
+  * Brand Lead - Responsável pelas artes divulgação, logo, linguagem e etc. Comunicação.
+  * Community Lead - Responsável pelas redes sociais, ouvir feedback, coletar anseios da comunidade e etc.
+  * Event Lead - Responsável por gerenciar os eventos de forma mais global, calendário, plataforma e etc.
+  * Orchestrator - Garante que essas pessoas se comuniquem, é um(a) facilitador(a).
+* Themed Guild - Responsável por promover os eventos, conteúdos, mentorias e etc daquele tema
+  * Guild Lead - Responsável pela comunicação das vontades da guilda, facilita a interação.
+  * Member - Voluntário da guilda. Modera chat, participa das discussões, ajuda na divulgação, palestra e etc.
+* External - Participantes externos
+  * Partner - CPF ou CNPJ parceiro de um evento específico ou de uma guilda específica
+  * Sponsor - CPF ou CNPJ que ajuda financeiramente na realização de um evento ou na manutenção de uma guilda.
+  * Guest - Convidado(a) participante de uma das ações da guilda, mas que não é um membro.
+
+Cada guilda terá um lead, o papel do lead é unificar as vozes e gerenciar os eventos, ações, etc, daquela guilda.
+
+O lead de guilda não é hierarquicamente superior a ninguém da guilda.
+
+Assim como o lead de guilda, nenhum lead da guilda core é hierarquicamente superior a ninguém da comunidade.
+
+A comunicação entre todos do DevSertão deve ser aberta independentemente do papel desempenhado por cada pessoa.
+
+<br>
+
 ### Guildas
 
 #### Core
@@ -35,27 +59,9 @@ O DevSertão utiliza de meios como live streams, meetups, mentorias, artigos, vi
   <img align="center" width="50" src="https://avatars0.githubusercontent.com/u/11681745?s=460&u=9e05d0463a64cdee760ca2f5cc08533cc53f3ee0&v=4">
 </a>
 
-<br>
-
 #### [Dados](https://github.com/devsertao/dados-guilda)
 #### [Pesquisa](https://github.com/devsertao/pesquisa-guilda)
 #### [Open Source](https://github.com/devsertao/open-source-guilda)
-
-<br>
-
-### [Organograma](https://www.figma.com/file/VNggGpXp5Ys3Xr8zr8ieCM/Organiza%C3%A7%C3%A3o?node-id=1%3A2)
-* Core Guild - Responsável pelo posicionamento geral do coletivo
-  * Brand Lead - Responsável pelas artes divulgação, logo, linguagem e etc. Comunicação.
-  * Community Lead - Responsável pelas redes sociais, ouvir feedback, coletar anseios da comunidade e etc.
-  * Event Lead - Responsável por gerenciar os eventos de forma mais global, calendário, plataforma e etc.
-  * Orchestrator - Garante que essas pessoas se comuniquem, é um(a) facilitador(a).
-* Themed Guild - Responsável por promover os eventos, conteúdos, mentorias e etc daquele tema
-  * Guild Lead - Responsável pela comunicação das vontades da guilda, facilita a interação.
-  * Member - Voluntário da guilda. Modera chat, participa das discussões, ajuda na divulgação, palestra e etc.
-* External - Participantes externos
-  * Partner - CPF ou CNPJ parceiro de um evento específico ou de uma guilda específica
-  * Sponsor - CPF ou CNPJ que ajuda financeiramente na realização de um evento ou na manutenção de uma guilda.
-  * Guest - Convidado(a) participante de uma das ações da guilda, mas que não é um membro.
 
 <br>
 
