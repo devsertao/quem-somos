@@ -43,6 +43,22 @@ O DevSertão utiliza de meios como live streams, meetups, mentorias, artigos, vi
 
 <br>
 
+### [Organograma](https://www.figma.com/file/VNggGpXp5Ys3Xr8zr8ieCM/Organiza%C3%A7%C3%A3o?node-id=1%3A2)
+* Core Guild - Responsável pelo posicionamento geral do coletivo
+  * Brand Lead - Responsável pelas artes divulgação, logo, linguagem e etc. Comunicação.
+  * Community Lead - Responsável pelas redes sociais, ouvir feedback, coletar anseios da comunidade e etc.
+  * Event Lead - Responsável por gerenciar os eventos de forma mais global, calendário, plataforma e etc.
+  * Orchestrator - Garante que essas pessoas se comuniquem, é um(a) facilitador(a).
+* Themed Guild - Responsável por promover os eventos, conteúdos, mentorias e etc daquele tema
+  * Guild Lead - Responsável pela comunicação das vontades da guilda, facilita a interação.
+  * Member - Voluntário da guilda. Modera chat, participa das discussões, ajuda na divulgação, palestra e etc.
+* External - Participantes externos
+  * Partner - CPF ou CNPJ parceiro de um evento específico ou de uma guilda específica
+  * Sponsor - CPF ou CNPJ que ajuda financeiramente na realização de um evento ou na manutenção de uma guilda.
+  * Guest - Convidado(a) participante de uma das ações da guilda, mas que não é um membro.
+
+<br>
+
 ### Conecte-se conosco! :smile:
 
 <a href="https://twitter.com/dev_sertao">
