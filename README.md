@@ -46,7 +46,7 @@ A comunicação entre todos do DevSertão deve ser aberta independentemente do p
 
 #### Core
 
-<a href="https://github.com/Gabrielr2508">
+<a href="https://github.com/gab0gomes">
   <img align="center" width="50" src="https://avatars1.githubusercontent.com/u/12296173?s=400&v=4">
 </a>
 <a href="https://github.com/RafaelGondi">
